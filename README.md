@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Goodness Festus
 
-<!--
-**goodnessO2/goodnessO2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Electronic & Computer Engineering student with a growing passion for data analytics and business intelligence.
 
-Here are some ideas to get you started:
+I enjoy transforming raw data into actionable insights using SQL, Power BI, Tableau, Excel, and R.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technical Skills
+- SQL
+- Power BI
+- Tableau
+- Excel
+- R Programming
+- Data Cleaning
+- Data Visualization
+- Dashboard Development
+
+## 📊 Featured Projects
+
+### 🚲 Cyclistic Bike Share Analysis
+Analyzed bike-share customer behavior using R and Tableau to uncover usage trends and business insights.
+
+### ⚡ Nigeria Energy Infrastructure Analysis
+Analyzed electricity infrastructure, generation capacity, and electricity access across Nigerian states using SQL and Power BI.
+
+## 📫 Let's Connect
+- Email: goodnessfestus88@gmail.com
