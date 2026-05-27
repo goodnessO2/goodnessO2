@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Goodness Festus
+# 👋 Hi, I'm Goodness Okoro 
 
 I'm an Electronic & Computer Engineering student with a growing passion for data analytics and business intelligence.
 
@@ -24,3 +24,4 @@ Analyzed electricity infrastructure, generation capacity, and electricity access
 
 ## 📫 Let's Connect
 - Email: goodnessfestus88@gmail.com
+- Linkedln: linkedin.com/in/goodness-okoro
